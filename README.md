@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Qubyte-Labs/peekin-releases/main/icon.png" width="96" height="96" alt="Peekin">
+  <img src="https://raw.githubusercontent.com/Qubyte-Labs/peekin-releases/main/app-icon.png" width="96" height="96" alt="Peekin">
 </p>
 
 <h1 align="center">Peekin</h1>
